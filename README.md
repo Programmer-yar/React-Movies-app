@@ -1,5 +1,11 @@
 # React movie app
 
+## Core dependencies
+
+- Vite
+- React
+- Tailwind CSS
+
 ## Local Setup
 
 - Install project dependencies:
